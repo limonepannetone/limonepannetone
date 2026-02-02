@@ -6,11 +6,13 @@ Welcome to my GitHub profile!
 - 🍋 I love Limone Panettone and Lemons
 - 🏎️ Racing enthusiast (notably Mario Kart!)
 - 💻 Passionate about Programming
-- 🌟 My strongest language: **Lua**
+- 🌟 My strongest language: **LuaU**
+- I am learning C++
 
 ## What I Do
-- Build fun projects in Lua
-- Compete in Mario Kart
+- I make Roblox games
+- I am also making my own Game Engine/Editor that uses LuaU as a scripting lang.
+- Build fun projects in Lua, Qt, and C++
 - Experiment with code and new ideas
 
 ## Connect with Me
