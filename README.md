@@ -1,9 +1,9 @@
-# Hi, I'm Limone Pannetone! 🍋
+# Hi, I'm Limone Panettone! 🍋
 
 Welcome to my GitHub profile!
 
 ## About Me
-- 🍋 I love Limone Pannetone and Lemons
+- 🍋 I love Limone Panettone and Lemons
 - 🏎️ Racing enthusiast (notably Mario Kart!)
 - 💻 Passionate about Programming
 - 🌟 My strongest language: **Lua**
