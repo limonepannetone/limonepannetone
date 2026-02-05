@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 - 🏎️ Racing enthusiast (notably Mario Kart!)
 - 💻 Passionate about Programming
 - 🌟 My strongest language: **LuaU**
-- I am learning C++
+- I am learning C++/Kotlin
 
 ## What I Do
 - I make Roblox games
