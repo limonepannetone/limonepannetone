@@ -12,7 +12,7 @@ Welcome to my GitHub profile!
 ## What I Do
 - I make Roblox games
 - I am also making my own Game Engine/Editor that uses LuaU as a scripting lang.
-- Build fun projects in Lua, Qt, and C++
+- Build fun projects in Lua, ImGui, bgfx, and C++
 - Experiment with code and new ideas
 
 ## Connect with Me
