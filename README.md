@@ -21,3 +21,7 @@ Feel free to check out my repositories and reach out!
 ---
 
 Thanks for visiting! 🚀
+
+Currently supporting:
+KDE
+![KDE Donor Badge](https://kde.org/fundraisers/yearend2025/thanks_paypal/badge_konqi.png)
