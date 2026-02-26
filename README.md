@@ -24,4 +24,6 @@ Thanks for visiting! 🚀
 
 Currently supporting:
 KDE
-![KDE Donor Badge](https://kde.org/fundraisers/yearend2025/thanks_paypal/badge_konqi.png)
+<a href="https://kde.org/fundraisers/yearend2025/">
+  <img src="https://kde.org/fundraisers/yearend2025/thanks_paypal/badge_konqi.png" width="120" alt="KDE Donor Badge">
+</a>
