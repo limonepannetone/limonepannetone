@@ -26,3 +26,6 @@ KDE
 <a href="https://kde.org/fundraisers/yearend2025/">
   <img src="https://kde.org/fundraisers/yearend2025/thanks_paypal/badge_konqi.png" width="120" alt="KDE Donor Badge">
 </a>
+<a href="https://kde.org/fundraisers/yearend2026/">
+  <img src="https://kde.org/fundraisers/yearend2026/thanks_paypal/badge_konqi.png" width="120" alt="KDE Donor Badge">
+</a>
